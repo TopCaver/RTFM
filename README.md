@@ -1,2 +1,12 @@
 # RTFM
-Read The Fucking Manual
+[RTFM](https://zh.wikipedia.org/zh-cn/RTFM)，是一个英文缩写，意思是：“去读TMD手册”（Read The F**king Manual），这句话通常用在回复那些只要查阅文件就可以解决，拿出来提问只是浪费别人时间的问题。
+
+
+
+这个项目是一个私人项目，用来整理那些我在日常工作学习中，读过的手册。
+
+
+
+- Cloudera：由Cloudera公司在其官方网站公布的一些手册文档。
+  - [Cloudera裸机部署参考架构.md](cloudera/Cloudera裸机部署参考架构.md) ：这个手册讲了一些如何为Hadoop集群选择硬件、部署网络、调优操作系统参数。比如选择HDD还是SSD、磁盘是大一些还是小一些，HDFS使用EC替代3副本策略时如何保证可用性等等。
+
